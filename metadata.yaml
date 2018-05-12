@@ -1,4 +1,8 @@
 _repo: De-koraal-eilanden-fragment-uit-het-dagboek-van-een-natuuronderzoeker-De-Aarde-en-haar-Volken__48109
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48109-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Darwin, Charles
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48109#De-koraal-eilanden-fragment-uit-het-dagboek-van-een-natuuronderzoeker-De-Aarde-en-haar-Volken_
 gutenberg_issued: '2015-01-29'
 gutenberg_type: Text
 identifiers:
