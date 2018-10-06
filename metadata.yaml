@@ -23,6 +23,8 @@ language: nl
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'De koraal-eilanden: fragment uit het dagboek van een natuuronderzoeker
 
   De Aarde en haar Volken, 1875'
